@@ -2,6 +2,10 @@
 chef cookbooks Changelog
 ========================
 
+Version 0.13.3, PENDING
+---------------------------
+- Fixes case for replicaset config when joining initialized replicaset (#63)
+
 Version 0.13.2, UNRELEASED
 ---------------------------
 add support for chef_gem on newer versions of chef
